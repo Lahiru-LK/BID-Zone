@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jdt.annotation-2.2.800">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Library/org.eclipse.jdt.annotation-2.2.800.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Library/org.eclipse.jdt.annotation-2.2.800.jar!/src" />
+    </SOURCES>
+  </library>
+</component>

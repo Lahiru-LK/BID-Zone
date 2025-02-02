@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="YourProject:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/YourProject_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="YourProject" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="checker-qual-3.37.0.jar" module-name="YourProject" />
+          <element id="library" level="module" name="error_prone_annotations-2.21.1.jar" module-name="YourProject" />
+          <element id="library" level="module" name="failureaccess-1.0.1.jar" module-name="YourProject" />
+          <element id="library" level="module" name="guava-32.1.3-jre.jar" module-name="YourProject" />
+          <element id="library" level="module" name="j2objc-annotations-2.8.jar" module-name="YourProject" />
+          <element id="library" level="module" name="jakarta.ws.rs-api-2.1.6.jar" module-name="YourProject" />
+          <element id="library" level="module" name="listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" module-name="YourProject" />
+          <element id="library" level="module" name="org.eclipse.jdt.annotation-2.2.800.jar" module-name="YourProject" />
+          <element id="library" level="module" name="servlet-api.jar.zip" module-name="YourProject" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.21-bin.jar" module-name="YourProject" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="YourProject/web/Web" />
+    </root>
+  </artifact>
+</component>
