@@ -7,6 +7,7 @@ BidZone is an **advanced auction platform** developed using **Java**. This platf
 
 
 https://github.com/Lahiru-LK/BID-Zone/assets/104630433/8cc8d87e-fa83-4e27-8c92-3c245d234035
+
 https://github.com/user-attachments/assets/c28f3b86-a386-4c4d-9773-39719cf8b021
 
 
